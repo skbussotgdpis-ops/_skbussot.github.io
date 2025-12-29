@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SK Barangay Bussot</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #1e293b;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #334155;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      margin-top: 20px;
+      border-radius: 8px;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: #1e293b;
+      color: white;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Sangguniang Kabataan<br>Barangay Bussot</h1>
+    <p>Youth Leadership • Service • Community Action</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#vision">Vision & Mission</a>
+    <a href="#officials">SK Officials</a>
+    <a href="#services">Programs</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About SK Barangay Bussot</h2>
+    <p>The Sangguniang Kabataan of Barangay Bussot serves as the official youth governing body dedicated to developing empowered, disciplined, and socially responsible youth leaders through inclusive programs and community-driven initiatives.</p>
+  </section>
+
+  <section id="vision">
+    <h2>Vision</h2>
+    <p>An empowered, united, and progressive youth sector of Barangay Bussot actively participating in nation-building and community development.</p>
+
+    <h2>Mission</h2>
+    <p>To promote youth leadership, integrity, and volunteerism by implementing responsive programs in education, sports, health, culture, and environmental stewardship, fostering active participation and holistic growth of the youth.</p>
+  </section>
+
+  <section id="officials">
+    <h2>SK Officials</h2>
+    <p><strong>SK Chairperson:</strong> Venus Mae T. Dumal-is</p>
+
+    <p><strong>SK Kagawads:</strong></p>
+    <ul>
+      <li>Arnel D. Lucenario</li>
+      <li>Davelyne L. Bungtayen</li>
+      <li>Leah B. Felipe</li>
+      <li>Jake B. Comedian</li>
+      <li>Micah D. Bitongan</li>
+      <li>Ryan Paul G. Tul-ao</li>
+    </ul>
+
+    <p><strong>SK Treasurer:</strong> Joana S. Dagyan</p>
+    <p><strong>SK Secretary:</strong> Jamaica C. Daodaoen</p>
+  </section>
+
+  <section id="services">
+    <h2>Programs & Activities</h2>
+    <ul>
+      <li>Youth Development & Leadership Trainings</li>
+      <li>Sports and Inter-Barangay Tournaments</li>
+      <li>Educational Assistance Programs</li>
+      <li>Health, Environment, and Outreach Activities</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: skbussot.gdpis@gmail.com</p>
+    <p>Facebook: SK BRGY Bussot GDP</p>
+  </section>
+
+  <footer>
+    <p>© 2025 SK Barangay Bussot. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
